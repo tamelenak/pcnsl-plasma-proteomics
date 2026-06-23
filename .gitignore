@@ -30,3 +30,7 @@ venv/
 .DS_Store
 
 MRI_integration.ipynb
+
+# Zenodo anonymized data
+zenodo_release/
+zenodo_release_private/

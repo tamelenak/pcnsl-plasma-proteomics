@@ -49,4 +49,7 @@ pip install -r requirements.txt
 ## Data and Code Availability
 
 This code is released to support reproducibility of the analyses reported in the
-manuscript. Anonymized patient-level proteomics data are availabel on Zenodo: [TBD].
+manuscript. Anonymized plasma NPX matrices (no clinical annotations) are available on
+Zenodo: https://doi.org/10.5281/zenodo.20815686. Clinical annotations and tumour
+transcriptomics data are available upon reasonable request subject to LOC network
+data-sharing regulations.
