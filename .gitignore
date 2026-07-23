@@ -1,0 +1,36 @@
+# Data (not distributed — available on request, see manuscript)
+data
+data/
+synct_data
+synct_data/
+*.csv
+*.tab
+*.tsv
+
+# Generated outputs and archives
+outputs/
+outputs_archive/
+
+# Manuscript sources (not part of the public code release)
+article/
+
+# Internal / environment-specific files
+CLAUDE.md
+mount_data.sh
+.claude/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+MRI_integration.ipynb
+
+# Zenodo anonymized data
+zenodo_release/
+zenodo_release_private/
